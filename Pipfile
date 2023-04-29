@@ -10,8 +10,10 @@ chromadb = "*"
 watchdog = "*"
 tinydb = "*"
 pypdf2 = "*"
+ptvsd = "*"
 
 [dev-packages]
+black = "*"
 
 [requires]
 python_version = "3.10"
