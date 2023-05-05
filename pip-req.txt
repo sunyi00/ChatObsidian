@@ -1,0 +1,17 @@
+streamlit
+llama_index
+chromadb
+watchdog
+tinydb
+pypdf2
+ptvsd
+
+black
+flake8
+pylint
+isort
+ipython
+pep8
+requests
+httpx
+arrow
